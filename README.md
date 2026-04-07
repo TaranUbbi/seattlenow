@@ -1,5 +1,4 @@
 # Seattle Now
-#### Video Demo: <https://youtu.be/ZfCGxcS0s_0>
 #### Description:
 Seattle Now is a web application built with Flask that aggregates essential Seattle information in one place. It provides current weather, upcoming events, sports schedules and results, news headlines, and a list of popular attractions. The app is designed for both locals and tourists who want a quick and easy way to see what’s happening in the city and plan their day.
 
