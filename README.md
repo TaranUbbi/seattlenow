@@ -69,9 +69,11 @@ SeattleNow is a full-stack web application that aggregates essential Seattle inf
 
 1. Clone the repository  
 2. Navigate to the project folder  
-3. Install dependencies  
-4. Run the Flask app  
-5. Open in browser  
+3. Install dependencies:
+   pip install -r requirements.txt  
+4. Run the app:
+   python app.py  
+5. Open http://localhost:5000 in your browser  
 
 ---
 
