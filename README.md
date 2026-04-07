@@ -1,59 +1,80 @@
-# Seattle Now
-#### Description:
-Seattle Now is a web application built with Flask that aggregates essential Seattle information in one place. It provides current weather, upcoming events, sports schedules and results, news headlines, and a list of popular attractions. The app is designed for both locals and tourists who want a quick and easy way to see what’s happening in the city and plan their day.
+# SeattleNow
 
-The project demonstrates how to integrate multiple APIs into a single web platform and emphasizes responsive, user-friendly design. Each section of the app is designed to display data clearly, with interactive features such as filtering events by category and dynamically updating weather backgrounds.
+SeattleNow is a full-stack web application that aggregates essential Seattle information in one place, including weather, events, sports, news, and local attractions.
 
----
-
-## Features
-
-- **Weather:** Displays current conditions and a short forecast. The background dynamically changes based on the weather (sunny, rainy, cloudy, etc.), providing visual cues about Seattle’s climate.
-- **Events:** Shows upcoming events with dates, categories, and links to more information. Users can filter by category to quickly find concerts, festivals, or local activities.
-- **Sports:** Lists recent and upcoming games for Seattle teams, including scores and schedules.
-- **News:** Aggregates local Seattle news from reliable sources, giving users quick access to important headlines.
-- **Attractions & Activities:** Offers a curated list of museums, parks, and other must-visit places for visitors and locals.
+🔗 **Live Site:** https://seattlenow.net
 
 ---
 
-<<<<<<< HEAD
-## 🔗 Live project: 
+## 🚀 Features
 
-https://seattlenow.net 
+- **Weather**  
+  Displays current conditions and forecast with dynamic backgrounds based on weather.
 
----
+- **Events**  
+  Shows upcoming events with filtering by category (concerts, festivals, etc.).
 
-## 💡 About
+- **Sports**  
+  Lists recent and upcoming Seattle team games with scores and schedules.
 
-Built with **Flask, HTML, CSS, JS** and free APIs:  
+- **News**  
+  Aggregates local Seattle headlines from reliable sources.
 
-- **OpenWeatherMap API** — weather  
-- **Ticketmaster API** — events & sports  
-- **RSS feeds** — local news  
-
-Designed to be interactive and visually engaging for showcasing web development skills.
-
----
-
-## 📫 Contact / Suggestions
-
-Reach me on Instagram for feedback or suggestions:  
-[@taran_ubbi](https://instagram.com/taran_ubbi)
+- **Attractions & Activities**  
+  Curated list of popular places for locals and visitors.
 
 ---
 
-**© 2025 Seattle Now**
-=======
-## Project Architecture
+## 🛠 Tech Stack
 
-- **Frontend:** HTML templates with Jinja2, responsive CSS, and minimal JavaScript for interactivity. Each page extends a `base.html` template to maintain a consistent layout and navbar.
-- **Backend:** Python with Flask, which handles routing, API calls, and data formatting before rendering templates. The backend ensures that data from different sources is presented consistently.
-- **Deployment:** Hosted on Render, with a configuration to launch via Gunicorn. The app can also be run locally for testing with Flask’s built-in server.
-- **Data Sources:** The app integrates multiple APIs:
-  - Weather API (OpenWeather or similar)
-  - News API (Seattle-focused news source)
+- **Frontend:** HTML, CSS, JavaScript, Jinja2  
+- **Backend:** Python (Flask)  
+- **Deployment:** Render
 
 ---
 
-## File Structure
->>>>>>> 14a2c33 (Backup before site updates)
+## 🔌 APIs Used
+
+- OpenWeatherMap API (weather)
+- Ticketmaster API (events & sports)
+- RSS feeds (news)
+
+---
+
+## ⚙️ Project Architecture
+
+- **Frontend:** HTML templates with Jinja2 and responsive CSS  
+- **Backend:** Flask handles routing, API calls, and data formatting  
+- **Deployment:** Hosted on Render, can run locally with Flask  
+
+---
+
+## 📸 Screenshots
+(Add screenshots here)
+
+---
+
+## 📚 What I Learned
+
+- Integrating multiple APIs into one platform  
+- Building a full-stack application with Flask  
+- Designing responsive and user-friendly interfaces  
+- Structuring a multi-page web application  
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository  
+2. Navigate to the project folder  
+3. Install dependencies  
+4. Run the Flask app  
+5. Open in browser  
+
+---
+
+## 📫 Contact
+
+Email: taran.ubbi@gmail.com  
+GitHub: https://github.com/TaranUbbi
+Instagram: https://www.instagram.com/taran_ubbi
