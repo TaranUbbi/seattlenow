@@ -19,7 +19,7 @@ The project demonstrates how to integrate multiple APIs into a single web platfo
 <<<<<<< HEAD
 ## 🔗 Live project: 
 
-https://seattle-now.onrender.com  
+https://seattlenow.net 
 
 ---
 
